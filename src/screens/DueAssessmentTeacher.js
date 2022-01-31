@@ -42,7 +42,7 @@ function DueAssessmentTeacher({ menuOpen, toggleMenu }) {
       <Sidebar menuOpen={menuOpen} />
       {/* section right */}
       <div className="flex-grow bg-green-200 p-4 space-y-4">
-        <div className="flex justify-between mb-6 pb-4">
+        <div className="flex justify-between mb-6">
           <div className="flex flex-row">
             <svg
               xmlns="http://www.w3.org/2000/svg"
